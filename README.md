@@ -9,6 +9,9 @@ The code was developed with a Jupyter Notebook on the Apache Spark framework run
 
 The overall purpose of the project is to use the Apache Spark framework on an AWS cluster for training a machine learning model with a large dataset. The goal I hoped to accomplish while learing Spark, was to develop an accurate model for predicting when a "Sparkify" user is likely to churn.
 
+### Blog Post
+
+The full discussion of my project and code are [in this blog post on Medium](https://medium.com/@kennyflutes/using-apache-spark-to-predict-user-churn-c4a50a2520e8)
 
 
 
