@@ -26,8 +26,8 @@ The full discussion of my project and code are [in this blog post on Medium](htt
 I relied on three main references during this project:
 
 1. [The Apache Spark documentation and examples for linear regression](https://spark.apache.org/docs/2.1.1/mllib-linear-methods.html#logistic-regression)
-2. Susan Li's [blog post on Machine Learning with PySpark](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
-3. Chang Hsin Lee's [blog post on turning python functions into PySpark](https://changhsinlee.com/pyspark-udf/)
+2. [Susan Li's blog post on Machine Learning with PySpark](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
+3. [Chang Hsin Lee's blog post on turning python functions into PySpark](https://changhsinlee.com/pyspark-udf/)
 
 
 ### Libraries Used
