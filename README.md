@@ -40,3 +40,5 @@ I relied on three main references during this project:
 - pyspark.ml.classification.LogisticRegression
 - pyspark.ml.evaluation.BinaryClassificationEvaluator
 - pyspark.ml.tuning: CrossValidator, ParamGridBuilder
+- pandas
+- matplotlib
